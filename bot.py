@@ -20,7 +20,7 @@ from urllib.parse import urljoin, urlparse, parse_qs
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "9107434537:AAHH13WRHOut7CrdpT6gkx9xJG9PoS4QiYM"  # Generate a fresh token with @BotFather
+TOKEN = "9138431109:AAEoCsq_KlNlFe-KBzc8nr36VGRoGETTmX4"  # Generate a fresh token with @BotFather
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
